@@ -1,6 +1,3 @@
-package Y2_Lab3.HW3;
-
-
 public class NotAvailableException extends RuntimeException {
 
     private String message;
