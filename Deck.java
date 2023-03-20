@@ -1,5 +1,3 @@
-package Y2_Lab3.HW3;
-
 import Y2_Lab3.Card;
 
 import java.util.Random;
