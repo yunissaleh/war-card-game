@@ -1,5 +1,3 @@
-package Y2_Lab3.HW3;
-
 public class Play {
 
     public static void main(String[] args) {
