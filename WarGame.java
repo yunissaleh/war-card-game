@@ -1,5 +1,3 @@
-package Y2_Lab3.HW3;
-
 import Y2_Lab1.Account;
 import Y2_Lab3.Card;
 import Y2_Lab3.Rank;
