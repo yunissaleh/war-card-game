@@ -1,5 +1,3 @@
-import Y2_Lab3.Card;
-
 import java.util.Random;
 
 public class Deck {
